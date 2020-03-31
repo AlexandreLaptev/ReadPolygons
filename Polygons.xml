@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<Polygons>  
+  <Polygon>  
+    <UpperLeftLongitude>51.51</UpperLeftLongitude>  
+    <UpperLeftLatitude>29.73</UpperLeftLatitude>  
+	<LowerRightLongitude>61.24</LowerRightLongitude>
+	<LowerRightLatitude>22.49</LowerRightLatitude>
+  </Polygon>  
+ <Polygon>  
+    <UpperLeftLongitude>-118.28</UpperLeftLongitude>  
+    <UpperLeftLatitude>45.67</UpperLeftLatitude>  
+	<LowerRightLongitude>-116.74</LowerRightLongitude>
+	<LowerRightLatitude>43.91</LowerRightLatitude>
+  </Polygon>  
+</Polygons> 

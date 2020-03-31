@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadPolygons", "ReadPolygons\ReadPolygons.csproj", "{65F8E362-B35F-4100-B128-1D7A64A092DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{28880E73-A24A-45BD-BE78-040E7597D652}"
+	ProjectSection(SolutionItems) = preProject
+		Polygons.xml = Polygons.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F8E362-B35F-4100-B128-1D7A64A092DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F8E362-B35F-4100-B128-1D7A64A092DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F8E362-B35F-4100-B128-1D7A64A092DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F8E362-B35F-4100-B128-1D7A64A092DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {975BE407-1975-4723-9C13-4C6C110A8FB3}
+	EndGlobalSection
+EndGlobal
